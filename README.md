@@ -6,8 +6,31 @@ RecipeRadar leverages generative AI to curate a personalized cooking experience.
 
 # To visit the website [Click here]()
 
-# Tech stacks used in this project are as follows:-
+## Project Overview
 
+## Introduction
+RecipeRadar is a dynamic recipe recommendation platform designed to provide users with personalized cooking inspiration. Leveraging cutting-edge technologies, this full-stack web application makes cooking an enjoyable and hassle-free experience for users of all culinary levels.
+
+## Key Features
+1. **Recipe Suggestions:** RecipeRadar utilizes the OpenAI API to provide personalized recipe suggestions based on user-provided ingredients, ensuring users receive relevant recipe ideas tailored to their available ingredients.
+
+2. **Recipe Management:** Users can create and manage their recipe collections within the platform, allowing easy access to their favourite dishes.
+
+3. **Rating and Feedback:** Users have the ability to rate recipes and provide feedback, helping others make informed decisions about which recipes to try.
+
+## Project Goals
+The primary objective of RecipeRadar is to revolutionize cooking by offering users a hassle-free and enjoyable experience. Key goals include:
+- **Personalization:** Providing users with recipes tailored to their unique tastes and dietary preferences.
+- **Simplicity:** Making cooking accessible and enjoyable for individuals of all culinary skill levels.
+- **Data-Driven Recommendations:** Utilizing OpenAI API to offer precise recipe suggestions based on user-provided ingredients.
+
+
+RecipeRadar represents a fusion of technology and culinary artistry, aiming to make cooking not just a necessity but a delightful and communal experience.
+
+# Tech stack
+
+- **Recipe Suggestions:** RecipeRadar utilizes the OpenAI API to provide personalized recipe suggestions based on user-provided ingredients, ensuring users receive relevant recipe ideas tailored to their available ingredients.
+- 
 ## Frontend
 
 - HTML
