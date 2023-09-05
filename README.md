@@ -4,7 +4,7 @@
 RecipeRadar leverages generative AI to curate a personalized cooking experience. Discover recipes aligned with your unique tastes and dietary preferences, all with the help of AI-powered recommendations.
 
 
-# To visit the website [Click here](https://buycars-ten.vercel.app/)
+# To visit the website [Click here]()
 
 # Tech stacks used in this project are as follows:-
 
