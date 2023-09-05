@@ -21,6 +21,8 @@ RecipeRadar leverages generative AI to curate a personalized cooking experience.
 - Tailwind CSS
 
 ## Backend
+
+- Python
   
 - Django
 
