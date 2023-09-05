@@ -47,6 +47,8 @@ RecipeRadar represents a fusion of technology and culinary artistry, aiming to m
 
 - Python
   
+- OpenAI
+  
 - Django
 
 - MySQL
