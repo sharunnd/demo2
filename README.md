@@ -27,10 +27,10 @@ The primary objective of RecipeRadar is to revolutionize cooking by offering use
 
 RecipeRadar represents a fusion of technology and culinary artistry, aiming to make cooking not just a necessity but a delightful and communal experience.
 
-# Tech stack
+## Tech stack
 
 - **Recipe Suggestions:** RecipeRadar utilizes the OpenAI API to provide personalized recipe suggestions based on user-provided ingredients, ensuring users receive relevant recipe ideas tailored to their available ingredients.
-- 
+  
 ## Frontend
 
 - HTML
